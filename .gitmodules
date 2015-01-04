@@ -1,0 +1,12 @@
+[submodule "trabajando-con-paas"]
+	path = trabajando-con-paas
+	url = git@github.com:JJ/trabajando-con-paas.git
+[submodule "desarrollo-basado-pruebas"]
+	path = desarrollo-basado-pruebas
+	url = git@github.com:JJ/desarrollo-basado-pruebas.git
+[submodule "node-app-cc"]
+	path = node-app-cc
+	url = git@github.com:JJ/node-app-cc.git
+[submodule "tuto-google-apps"]
+	path = tuto-google-apps
+	url = git@github.com:JJ/tuto-google-apps.git
