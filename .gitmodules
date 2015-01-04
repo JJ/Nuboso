@@ -10,3 +10,6 @@
 [submodule "tuto-google-apps"]
 	path = tuto-google-apps
 	url = git@github.com:JJ/tuto-google-apps.git
+[submodule "Infraestructura-como-servicio"]
+	path = Infraestructura-como-servicio
+	url = git@github.com:JJ/Infraestructura-como-servicio.git
