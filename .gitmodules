@@ -13,3 +13,6 @@
 [submodule "Infraestructura-como-servicio"]
 	path = Infraestructura-como-servicio
 	url = git@github.com:JJ/Infraestructura-como-servicio.git
+[submodule "dbaas"]
+	path = dbaas
+	url = git@github.com:JJ/dbaas.git

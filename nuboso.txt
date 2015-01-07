@@ -1,2 +1,2 @@
-#Aprende git
-#Pablo Hinojosa y JJ Merelo
+#Nuboso, con posibilidad de despliegue
+#JJ Merelo
