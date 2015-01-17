@@ -51,3 +51,10 @@ precios populares. El autor te agradece que
 lo recomiendes, hables de él, digas que te ha parecido y, por
 supuesto, que lo compres. 
 
+## Instrucciones de uso
+
+Te beneficiarás de este libro si lo usas con el ordenador abierto y
+vas copiando y pegando los ejemplos al terminal o al editor e
+intentando hacer los ejercicios. Necesitarás un ordenador Linux con
+Ubuntu (o un Mac con una serie de herramientas instaladas) y con una
+conexión a Internet decente (básicamente, que no sea con el móvil). 
