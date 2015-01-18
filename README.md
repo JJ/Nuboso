@@ -7,15 +7,24 @@ de SaaS, desarrollo basado en pruebas, PaaS e IaaS (cuando la termine).
 
 ##Instrucciones
 
-El repo usa diferentes submódulos, que son los que contienen en realidad el texto de cada uno de los capítulos. Tras descargar el repo de la forma habitual, habrá que hacer
+El repo usa diferentes submódulos, que son los que contienen en realidad el texto de cada uno de los capítulos. Eso quiere decir que se tiene que descargar de forma recursiva, en vez del habitual `git clone`:
+
+	$ git clone --recursive https://github.com/JJ/Nuboso.git
+
+
+Tras descargar el repo de la forma habitual, habrá que hacer
 
 	$ git submodule foreach git pull               
 
-Y a partir de ahí.
+si se ha hecho cambio en alguno de los subrepositorios. Y a partir de ahí, tras instalar `pandoc` con
+
+	sudo apt-get install pandoc
+
+se ejecuta 
 
 	./md2epub
 
-Genera un epub a partir de todos los capítulos.
+que genera un epub a partir de todos los capítulos en el mismo directorio llamado `nuboso.epub`. 
 
 ##¿Problemas? ¿Sugerencias?
 
