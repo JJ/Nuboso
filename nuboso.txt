@@ -1,3 +1,4 @@
-#Nuboso, con posibilidad de despliegue
+#Aprende a programar la nube
+## Una introducción a la creación, prueba y despliegue en *cloud* por vía de DevOps
 
 Por [**JJ Merelo**](http://jj.github.io)

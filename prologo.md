@@ -7,9 +7,9 @@ Esta obra está sujeta a la licencia Reconocimiento-CompartirIgual 4.0 Internaci
 # Prólogo y agradecimientos
 
 Este libro se escribió originalmente para el
-[curso de computación nube](http://curso-nube.github.io/) impartido en el Centro de profesores de Jaén en diciembre de 2014.
+[curso de computación nube](http://curso-nube.github.io/) impartido en el Centro de profesores de Jaén en diciembre de 2014. Posteriormente se ha ido enriqueciendo con el material que se ha ido usando en los cursos de [Infraestructura Virtual](https://jj.github.io/IV) y [Cloud Computing](https://jj.github.io/IV)) de grado y máster en Informática, respectivamente.
 
-También es una primera edición, por lo que seguramente habrá algún
+Es un libro que está continuamente renovándose, por lo que seguramente habrá algún
 (ciento de) fallo. Pero dado que es un libro libre, puedes corregir
 esos fallos y hacerte tu propia versión en GitHub o
 [hacernos sugerencias y comentarios](https://github.com/JJ/nuboso/issues)
@@ -29,7 +29,7 @@ repositorios para gestionar tu código, algo esencial en el espíritu de
 *DevOps* que trato de transmitir en este libro. También hará falta
 cierto manejo de la línea de órdenes de Linux (que es la misma del Mac)
 
->Lo siento, nube y Windows no se llevan bien. Si no quieres abandonar
+>Lo siento, pero hasta hace tanto, nube y Windows no se llevan bien. Si no quieres abandonar
 >tu Windows, que es un sistema operativo de escritorio y consumo, no
 >de desarrolladores, instálate Linux en una máquina virtual y trabaja
 >con él, aunque en ese Linux, a su vez, puede que necesites instalarte
@@ -57,4 +57,40 @@ Te beneficiarás de este libro si lo usas con el ordenador abierto y
 vas copiando y pegando los ejemplos al terminal o al editor e
 intentando hacer los ejercicios. Necesitarás un ordenador Linux con
 Ubuntu (o un Mac con una serie de herramientas instaladas) y con una
-conexión a Internet decente (básicamente, que no sea con el móvil). 
+conexión a Internet decente (básicamente, que no sea con el móvil).
+
+Si quieres, créate un repositorio en GitHub y ve subiendo los
+ejercicios. No es que vaya a corregirlos, pero puedes compartirlos con
+compañeros y corregirlos entre vosotros. Si dispongo de tiempo para
+echaros una mano, haré lo que pueda por ayudar también.
+
+# Introducción a la computación en nube
+
+La computación en nube ha supuesto una revolución en el arte de la
+programación, en medios y en métodos. En medios porque ya no hay que
+depender de un simple sistema, o varios, una aplicación monolítica y
+estática durante toda la vida de la aplicación: los soportes *físicos*
+se convierten en algo *elástico*, mutable y sobre todo definible
+usando programas escritos en lenguajes específicos, adaptados al
+dominio respectivo.
+
+Esto, a su vez, ha hecho que cambie la metodología: los ciclos de
+desarrollo son mucho más rápidos, pero los equipos se engloban en el
+concepto de *DevOps* que mezcla los departamentos de sistemas
+desarrollo y calidad en un solo grupo que trabaja conjuntamente y se
+responsabiliza de todo el ciclo de vida, desde la definición del
+entorno de desarrollo, prueba y despliegue hasta la puesta en
+producciónd e la aplicación.
+
+Por eso, si tu formación en programación es tradicional y piensas en
+una sola máquina (o un solo sistema con varias máquinas), una sola
+aplicación, quizás con varios *tiers* o partes (cliente, servidor,
+*middleware*), debes cambiar la mentalidad y pensar en muchas piezas
+débilmente acopladas, donde la información puede residir en múltiples
+sitios a la vez en diferentes grados de elaboración y dónde los puntos
+de entrada de los clientes pueden ser, a la vez múltiples. Los
+recursos pueden estar en diferentes máquinas, ser de diferentes
+vendedores y, en general, estar en la nube.
+
+Precisamente para que tú no estés en las nubes y desciendas al suelo
+de, ejem, la nube, está este libro. Espero que te sea de ayuda.
