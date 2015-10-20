@@ -94,3 +94,12 @@ vendedores y, en general, estar en la nube.
 
 Precisamente para que tú no estés en las nubes y desciendas al suelo
 de, ejem, la nube, está este libro. Espero que te sea de ayuda.
+
+##Organización del libro
+
+Quizás hayas oído hablar de las diferentes capas de la nube: Software,
+Plataforma e Infraestructura como servicio. Aquí partiremos de la más
+alta, SaaS, e iremos hacia abajo, tratando de introducir por el camino
+los conceptos metodológicos y de programación necesarios para
+entenderlo. Por eso partimos del inicial que prácticamente sólo
+necesita conocimientos básicos de Javascript.
