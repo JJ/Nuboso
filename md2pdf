@@ -1,0 +1,13 @@
+#!/bin/bash
+
+pandoc --template=/home/jmerelo/Libros/curso-git/utils/plantilla.latex \
+    -V language=spanish -V lang=spanish \
+    -V author='JJ Merelo' -V title='Aprende a programar la nube'\
+    -V documentclass=book\
+    -S --latex-engine=xelatex  \
+    -o aprende-nube.pdf  \
+    prologo.md \
+    tuto-google-apps/README.md desarrollo-basado-pruebas/README.md \
+ dbaas/README.md trabajando-con-paas/README.md \
+    Infraestructura-como-servicio/README.md  --toc
+
