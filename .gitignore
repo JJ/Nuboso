@@ -29,3 +29,7 @@ node_modules
 
 # Backups
 *~
+
+# Generados
+*.pdf
+*.epub
