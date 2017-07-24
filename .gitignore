@@ -33,3 +33,5 @@ node_modules
 # Generados
 *.pdf
 *.epub
+*.docx
+
