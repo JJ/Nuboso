@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 pandoc -S --toc --epub-metadata=metadata.xml --epub-stylesheet=nuboso.css \
     -o nuboso.epub nuboso.txt prologo.md \
     tuto-google-apps/README.md desarrollo-basado-pruebas/README.md dbaas/README.md trabajando-con-paas/README.md Infraestructura-como-servicio/README.md

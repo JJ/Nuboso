@@ -1,0 +1,6 @@
+#!/bin/bash
+
+pandoc -s --toc  \
+       -o nuboso.docx nuboso.txt prologo.md \
+       tuto-google-apps/README.md desarrollo-basado-pruebas/README.md dbaas/README.md trabajando-con-paas/README.md Infraestructura-como-servicio/README.md
+   
