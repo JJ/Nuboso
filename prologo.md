@@ -7,7 +7,7 @@ Esta obra está sujeta a la licencia Reconocimiento-CompartirIgual 4.0 Internaci
 # Prólogo y agradecimientos
 
 Este libro se escribió originalmente para el
-[curso de computación nube](http://curso-nube.github.io/) impartido en el Centro de profesores de Jaén en diciembre de 2014. Posteriormente se ha ido enriqueciendo con el material que se ha ido usando en los cursos de [Infraestructura Virtual](https://jj.github.io/IV) y [Cloud Computing](https://jj.github.io/IV)) de grado y máster en Informática, respectivamente.
+[curso de computación nube](http://curso-nube.github.io/) impartido en el Centro de profesores de Jaén en diciembre de 2014. Posteriormente se ha ido enriqueciendo con el material que se ha ido usando en los cursos de [Infraestructura Virtual](https://jj.github.io/IV) y [Cloud Computing](https://jj.github.io/IV) de grado y máster en Informática, respectivamente.
 
 Es un libro que está continuamente renovándose, por lo que seguramente habrá algún
 (ciento de) fallo. Pero dado que es un libro libre, puedes corregir
