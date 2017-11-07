@@ -101,5 +101,5 @@ Quizás hayas oído hablar de las diferentes capas de la nube: Software,
 Plataforma e Infraestructura como servicio. Aquí partiremos de la más
 alta, SaaS, e iremos hacia abajo, tratando de introducir por el camino
 los conceptos metodológicos y de programación necesarios para
-entenderlo. Por eso partimos del inicial que prácticamente sólo
-necesita conocimientos básicos de Javascript.
+entenderlo. Por eso partiremos desde el inicio donde sólo
+necesitaremos conocimientos básicos de Javascript.
